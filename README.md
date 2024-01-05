@@ -1,4 +1,4 @@
-# ☕️ Coffee Folio
+# ☕️ Coffee Folio(ProtoType)
 
 <aside>
 💡 ’Coffee Folio’는 에스프레소 머신, 드립 장비, 캡슐 머신과 원두까지 한 눈에 찾아보고
